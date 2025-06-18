@@ -1,0 +1,9 @@
+streamlit
+openai
+google-generativeai
+requests
+textblob
+gspread
+oauth2client
+praw
+python-dotenv
